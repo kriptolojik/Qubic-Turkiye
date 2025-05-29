@@ -15,14 +15,20 @@ Use of Funds: Event sponsorship, booth setup, speaker slot, 3 VIP tickets, trave
 - Vote YES to position Qubic as a leader in the global Web3 ecosystem.
 ## Why Now?
 ### Strategic Opportunity
-- Istanbul Blockchain Week 2025 is a premier Web3 event, attracting top builders, investors, and protocols globally. It`s a key platform to elevate Qubic`s presence in a dynamic crypto hub.[](https://istanbulblockchainweek.com/)
-- Turkiye`s supportive regulatory environment and tech-savvy population make it an ideal market for Qubic to gain traction.[](https://cointelegraph.com/press-releases/istanbul-blockchain-week-2024-returns-showcasing-turkey-as-the-rising-star-in-web3-adoption)
+- Istanbul Blockchain Week 2025 is a premier Web3 event, attracting top builders, investors, and protocols globally. It`s a key platform to elevate Qubic`s presence in a dynamic crypto hub.[](https://istanbulblockchainweek.com/) 
+- Turkiye`s supportive regulatory environment and tech-savvy population make it an ideal market for Qubic to gain traction.[](https://cointelegraph.com/press-releases/istanbul-blockchain-week-2024-returns-showcasing-turkey-as-the-rising-star-in-web3adoption)
+- Event will play a key role for Qubic’s recognition and marketing efforts in Turkey. Well-known crypto figures, corporations, and investors from all over the world will attend IBW 2025.
 ### Timing Alignment
 - The event aligns with Qubic`s goals to expand its ecosystem and attract developers, investors, and partners in 2025.
 - A main stage speaker slot (potentially featuring Alber or another Qubic representative) will amplify our thought leadership during a critical growth phase.
 ### Competitive Edge
 - Securing a premium booth and speaker slot ensures Qubic stands out among competitors, leveraging a 35% discount (15,000€ savings) for maximum ROI.
 - Early commitment locks in high-visibility placement before slots are taken by other projects.
+### Why in Turkey?
+- Turkey has become the third country in the world with the highest number of crypto investors relative to its population, at 19,3%.
+- Inflation of the Turkish Lira has led citizens to seek alternative investment options. For this reason, cryptocurrencies are seen by some as a safer and more profitable investment compared to the Turkish Lira.
+- Turkey has been identified as the largest crypto market in the Middle East and North Africa region. With a value of $136.8 billion recorded between July 2023 and June 2024, Turkey ranked seventh globally.
+- IBW 2025 event’s workshops, panels, and networking opportunities allow Qubic to connect with talented developers and IBW 2025 will create opportunity to establish alliances with other protocols and enterprises.
 ## Proposal Details
 ### Option 1: Premium Presence (50,000€ + 10,000€ Additional Costs)
 - Cost Breakdown:
@@ -68,3 +74,4 @@ Use of Funds: Event sponsorship, booth setup, speaker slot, 3 VIP tickets, trave
 - Support: Community team for booth setup, promotion, and content creation.
 - Speaker: Alber or a designated Qubic representative.
 Let`s seize this opportunity to make Qubic shine
+
